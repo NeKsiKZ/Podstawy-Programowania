@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698176749 source:c:\users\bz123\onedrive\pulpit\podstawy programowania\2\t2c6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
